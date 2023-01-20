@@ -20,19 +20,6 @@ In this course, we'll heavily use Python to materialize ML ideas into code. Pyth
 
 You can refer to following tutorials to know more about numpy: [NumPy Quickstart](https://numpy.org/doc/stable/user/quickstart.html) and [Illustrated NumPy](https://betterprogramming.pub/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d)
 
-## Jupyter Notebooks
-Jupyter Notebook is a web-based interactive development environment that allows you to write and run code, as well as add text and images to create a narrative. It is particularly useful for machine learning (ML) development because it allows you to easily visualize the results of your code and share your work with others.
-
-<img src="https://miro.medium.com/max/1400/1*Y0wfx6EBWAGo_gfmUZHJLw.gif" height="300"></img>
-
-**Installation**: You can install jupyter by running either `pip install notebook` or `conda install -c anaconda notebook`
-
-**Starting Jupyter Notebook**: To start Jupyter Notebook, open a terminal or command prompt and run the command `jupyter notebook`. This will open a web browser window and take you to the Jupyter Notebook dashboard.
-
-**Creating a new notebook**: To create a new notebook, click on the "New" button and select "Python 3" from the drop-down menu. This will create a new notebook with a single empty cell.
-
-**Writing code**: To write code in a cell, simply click on it and start typing. Press "Shift+Enter" to run the code in the cell and move to the next cell. You can add new cells by clicking on the "Insert" button and selecting "Insert Cell Below".
-
 # Managing your Code
 
 ## Conda
@@ -58,6 +45,20 @@ Here are some examples of basic usage of Conda:
 
 You can find a pretty handy conda cheatsheet [here](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf) and read more on Conda [here](https://conda.io/projects/conda/en/latest/user-guide/getting-started.html#managing-python).
 
-## IDE (optional but recommended)
+
+## Jupyter Notebooks
+Jupyter Notebook is a web-based interactive development environment that allows you to write and run code, as well as add text and images to create a narrative. It is particularly useful for machine learning (ML) development because it allows you to easily visualize the results of your code and share your work with others.
+
+<img src="https://miro.medium.com/max/1400/1*Y0wfx6EBWAGo_gfmUZHJLw.gif" height="300"></img>
+
+**Installation**: You can install jupyter by running either `pip install notebook` or `conda install -c anaconda notebook`
+
+**Starting Jupyter Notebook**: To start Jupyter Notebook, open a terminal or command prompt and run the command `jupyter notebook`. This will open a web browser window and take you to the Jupyter Notebook dashboard.
+
+**Creating a new notebook**: To create a new notebook, click on the "New" button and select "Python 3" from the drop-down menu. This will create a new notebook with a single empty cell.
+
+**Writing code**: To write code in a cell, simply click on it and start typing. Press "Shift+Enter" to run the code in the cell and move to the next cell. You can add new cells by clicking on the "Insert" button and selecting "Insert Cell Below".
+
+## IDE
 
 Integrated Development Environments (IDEs) and text editors play a crucial role in the development of machine learning (ML) projects. They provide a wide range of tools and features that make it easier to write, test, and debug code, as well as manage dependencies and libraries. [Visual Studio Code](https://code.visualstudio.com/) is a popular choice for many, other options include [PyCharm](https://www.jetbrains.com/pycharm/) and [Sublime Text](https://www.sublimetext.com/).
