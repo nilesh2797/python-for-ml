@@ -1,6 +1,6 @@
 # Getting started with Python for ML
 
-This writeup is meant to introduce the basics of using Python and the NumPy library for machine learning. We will also be discussing some useful tools such as Conda and Jupyter notebooks, as well as basic plotting libraries that will help you visualize the data and results.
+This writeup is meant to introduce the basics of using Python and some important Python libraries for machine learning. We will also be discussing some useful tools such as Conda and Jupyter notebooks, as well as basic plotting libraries that will help you visualize the data and results.
 
 ## Python
 In this course, we'll heavily use Python to materialize ML ideas into code. Python is a powerful and versatile programming language that is widely used in the field of machine learning. It has many libraries and frameworks that make it easy to implement machine learning algorithms and models.
