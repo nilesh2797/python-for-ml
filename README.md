@@ -20,8 +20,6 @@ In this course, we'll heavily use Python to materialize ML ideas into code. Pyth
 
 You can refer to following tutorials to know more about numpy: [NumPy Quickstart](https://numpy.org/doc/stable/user/quickstart.html) and [Illustrated NumPy](https://betterprogramming.pub/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d)
 
-# Managing your Code
-
 ## Conda
 Conda is a package manager for Python that makes it easy to install and manage libraries and packages. It also allows you to create isolated environments for different projects, so that you can keep different versions of libraries separate from each other. This is useful when working on multiple projects that may have different dependencies. You can find conda installation instructions [here](https://docs.conda.io/projects/conda/en/latest/user-guide/install/).
 
