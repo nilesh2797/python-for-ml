@@ -20,6 +20,11 @@ In this course, we'll heavily use Python to materialize ML ideas into code. Pyth
 
 You can refer to following tutorials to know more about numpy: [NumPy Quickstart](https://numpy.org/doc/stable/user/quickstart.html) and [Illustrated NumPy](https://betterprogramming.pub/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d)
 
+## Matplotlib
+[Matplotlib](https://matplotlib.org/) provide a wide range of tools for visualizing data and results, including line plots, scatter plots, and histograms. These libraries allow you to easily create beautiful and informative visualizations that can help you understand your data better. Following is a cheatsheet for .
+![Basic matplotlib usage (image taken from [here](https://matplotlib.org/cheatsheets)](https://matplotlib.org/cheatsheets/_images/handout-beginner.png)
+You can refer to [this](https://matplotlib.org/stable/tutorials/index) excellent tutorial for more details on matplotlib.
+
 ## Conda
 Conda is a package manager for Python that makes it easy to install and manage libraries and packages. It also allows you to create isolated environments for different projects, so that you can keep different versions of libraries separate from each other. This is useful when working on multiple projects that may have different dependencies. You can find conda installation instructions [here](https://docs.conda.io/projects/conda/en/latest/user-guide/install/).
 
