@@ -14,9 +14,11 @@ In this course, we'll heavily use Python to materialize ML ideas into code. Pyth
 | `np.arange` | creates an array of evenly spaced values within a given range |
 | `np.reshape` | reshapes an array to a given shape |
 | `np.linalg.inv` | computes inverse of a numpy matrix |
+| `np.linalg.solve` | solves a linear matrix equation, or system of linear scalar equations of form Ax = b |
 | `np.linalg.eig` | get eigen values of a numpy matrix |
 | `np.matmul` | matrix multiplication between two numpy matrices |
 | `np.vstack` and `np.hstack` | vertically/horizontally stack two numpy arrays |
+
 
 You can refer to following tutorials to know more about numpy: [NumPy Quickstart](https://numpy.org/doc/stable/user/quickstart.html) and [Illustrated NumPy](https://betterprogramming.pub/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d)
 
